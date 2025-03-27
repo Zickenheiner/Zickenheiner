@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there ! I'm Rémi ! 👋
+Welcome to my Github profile !
 
-<!--
-**Zickenheiner/Zickenheiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **junior web developer** based in Toulouse, France.
 
-Here are some ideas to get you started:
+🎯 Currently looking for a **web development apprenticeship** to keep growing, learn from experienced teams, and contribute to real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express, MySQL
+- **Tools**: Git, GitHub, Docker, VS Code, Figma
+
+- ## 🚧 Projects
+
+- 🔨 **Payetracker** – A time-tracking and salary management app (React + Node + MySQL)  
+- 🌐 **Portfolio** – My personal website *(coming soon)*
+
+- ## 🤝 Get in touch
+
+- 📬 Email: remi.zicken@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/remi-zickenheiner
